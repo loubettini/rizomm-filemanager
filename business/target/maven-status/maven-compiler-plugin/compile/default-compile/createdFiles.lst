@@ -1,0 +1,4 @@
+com/rizomm/filemanager/business/entities/User.class
+com/rizomm/filemanager/business/repositories/UserRepository.class
+com/rizomm/filemanager/business/services/impl/UserServiceImpl.class
+com/rizomm/filemanager/business/services/UserService.class

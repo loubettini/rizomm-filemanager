@@ -1,0 +1,4 @@
+/home/lbettini/rizomm-filemanager/business/src/main/java/com/rizomm/filemanager/business/repositories/UserRepository.java
+/home/lbettini/rizomm-filemanager/business/src/main/java/com/rizomm/filemanager/business/services/UserService.java
+/home/lbettini/rizomm-filemanager/business/src/main/java/com/rizomm/filemanager/business/services/impl/UserServiceImpl.java
+/home/lbettini/rizomm-filemanager/business/src/main/java/com/rizomm/filemanager/business/entities/User.java
